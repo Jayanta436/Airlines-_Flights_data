@@ -93,7 +93,7 @@ The project includes
 ├── README.md
 ├── LICENSE
 ├── requirements.txt
-└── images/
+└── Plots/
 ```
 
 ---
